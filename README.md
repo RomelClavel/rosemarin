@@ -62,5 +62,5 @@ BACK-END => npm run dev
 
 -   ### Create your own account to use on the app
 -   ### See and Follow recipes from users around the world
--   ### Create you oen recipes
+-   ### Create you own recipes
 -   ### Add ingredients to your shopping straight from the recipes
