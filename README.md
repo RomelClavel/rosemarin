@@ -1,4 +1,4 @@
-# Rosemnary
+# Rosemary
 
 ### Cooking is a love you can taste.
 
